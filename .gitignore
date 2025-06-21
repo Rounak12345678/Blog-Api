@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# dotenv environment files
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Build directories
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# Optional: ignore compiled JS from TypeScript
+*.tsbuildinfo
+
+# Optional: local database or uploads
+uploads/
+*.sqlite
